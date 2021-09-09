@@ -13,7 +13,8 @@ Learned Programming Languages:
 + Python - Just a bit
 + HTML + CSS - Somewhat
 + Qt - a little bit
-+ Config Stuff
++ Bash - Quite a bit
++ Batchfile - Quite a bit
 
 Some stuff about me:
 + 🐧 I use Linux btw
