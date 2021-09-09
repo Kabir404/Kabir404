@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-Hello and welcome to **Kabir404**
+Welcome to **Kabir404**!
 
 I am **Kabir Akzaman**, A Teen who is interested on Computing,3D Graphics,Coding!
 
