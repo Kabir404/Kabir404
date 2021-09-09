@@ -1,16 +1,23 @@
 ### Hi there 👋
 
-<!--
-**Kabir404/Kabir404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Hello and welcome to **Kabir404**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am **Kabir Akzaman** A Teen who is interested on Computing,3D Graphics,Coding!
+
+I am also interested in contributing to KDE and many FOSS projects!
+
+
+Learned Programming Languages:
++ C# - Quite a bit
++ Python - Just a bit
++ HTML + CSS - Somewhat
++ Qt - a little bit
++ Config Stuff
+
+Some stuff about me:
++ 🐧 I use Linux btw
++ 💻 I Know a lot of stuff bout PC's in general but sucks at life
++ 📣 I do have a YouTube channel : https://www.youtube.com/channel/UCjNupOes9sekegTvOdO0dMQ
++ 😌 I would love to make some good friends....but 😟 I dont have many friends
++ 🎥 I like to watch anime and some animation stuff
