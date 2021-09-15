@@ -8,7 +8,7 @@ I am **Kabir Akzaman**, A Teen who is interested on Computing,3D Graphics,Coding
 I am also interested in contributing to KDE and many FOSS projects!
 
 
-![Kabir's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kabir404&show_icons=true&theme=github_dark&hide_border=true)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kabir404&layout=compact&show_icons=true&theme=github_dark&hide_border=true)
+![Kabir's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kabir404&show_icons=true&theme=github_dark&hide_border=true&hide_title=true)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kabir404&layout=compact&show_icons=true&theme=github_dark&hide_border=true)
 
 
 Some stuff about me:
